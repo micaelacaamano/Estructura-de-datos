@@ -17,6 +17,7 @@ class Nodo {
     int info;
     Nodo ant, sig;
 }
+```
 ---
 ### Consigna del Parcial
 
@@ -63,7 +64,7 @@ sin eliminar el primer nodo de la lista.
 ⚠️ Aclaración Importante
 
 ✔️ Se cumplieron todas las consignas solicitadas
-❌ Excepto la consigna número 5, correspondiente a la eliminación de nodos repetidos que coinciden con el valor del primer nodo.
+❌ Excepto la consigna número 4, correspondiente al intercambio del primer nodo con el ultimo de la lista.
 
 El resto de los métodos funcionan correctamente y cumplen con los criterios establecidos en el examen.
 
