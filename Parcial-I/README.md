@@ -32,9 +32,13 @@ En cualquier otro caso, se insertan al principio de la lista.
 Prueba del método:
 
 lg.insertar(10,20);
+
 lg.insertar(5,8);
+
 lg.insertar(200,4);
+
 lg.insertar(1,2);
+
 lg.imprimir();
 
 
@@ -71,7 +75,9 @@ sin eliminar el primer nodo de la lista.
 ### ⚠️ Aclaración Importante
 
 ✔️ Se cumplieron todas las consignas solicitadas
+
 ❌ Excepto la consigna número 4, correspondiente al intercambio del primer nodo con el ultimo de la lista.
+
 
 El resto de los métodos funcionan correctamente y cumplen con los criterios establecidos en el examen.
 
