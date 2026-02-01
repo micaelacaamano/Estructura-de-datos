@@ -28,7 +28,7 @@ void insertar(int x1, int x2)
 Si la lista tiene exactamente 4 nodos, los valores se insertan al final.
 En cualquier otro caso, se insertan al principio de la lista.
 
-**Prueba del método:
+Prueba del método:
 lg.insertar(10,20);
 lg.insertar(5,8);
 lg.insertar(200,4);
@@ -38,7 +38,7 @@ lg.imprimir();
 
 Salida esperada:
 
-1 - 2 - 5 - 8 - 10 - 20 - 200 - 4**
+1 - 2 - 5 - 8 - 10 - 20 - 200 - 4
 
 ### 2️⃣ Suma de nodos en posiciones impares
 
