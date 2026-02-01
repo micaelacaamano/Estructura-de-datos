@@ -32,15 +32,10 @@ En cualquier otro caso, se insertan al principio de la lista.
 Prueba del método:
 
 lg.insertar(10,20);
-
 lg.insertar(5,8);
-
 lg.insertar(200,4);
-
 lg.insertar(1,2);
-
 lg.imprimir();
-
 
 Salida esperada:
 
