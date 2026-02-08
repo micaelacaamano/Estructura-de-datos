@@ -1,4 +1,4 @@
-### Segundo Parcial – Estructura de Datos (Árbol Binario)
+# Segundo Parcial – Estructura de Datos (Árbol Binario)
 
 Este repositorio corresponde al **Segundo Parcial** de la materia **Estructura de Datos**, donde se trabajó con la implementación de un **árbol binario de búsqueda** en Java.
 
@@ -19,6 +19,7 @@ Se debieron implementar los siguientes métodos:
 ```
 public void insertar(int info)
 ```
+
 Implementar el método encargado de insertar valores dentro del árbol binario, respetando el orden:
 
 Si el valor es menor → se inserta en el subárbol izquierdo
