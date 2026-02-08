@@ -15,6 +15,7 @@ Se debieron implementar los siguientes métodos:
 ## 1️⃣ Inserción en el Árbol
 
 ### Método:
+
 ```
 public void insertar(int info)
 ```
@@ -27,6 +28,7 @@ Si el valor es mayor → se inserta en el subárbol derecho
 
 ## 2️⃣ Menor valor del Subárbol Derecho
 Método:
+
 ```
 public void menorValorDerecha()
 ```
@@ -39,6 +41,7 @@ Este método recorre hacia la izquierda dentro del subárbol derecho hasta encon
 
 ## 3️⃣ Mayor valor del Subárbol Izquierdo
 Método:
+
 ```
 public void mayorValorIzquierda()
 ```
@@ -51,6 +54,7 @@ Este método recorre hacia la derecha dentro del subárbol izquierdo hasta encon
 
 ## 4️⃣ Búsqueda de un Valor e Informe de Nivel
 Método:
+
 ```
 public void existeValorEnNivel(int info)
 ```
@@ -70,6 +74,7 @@ Y así sucesivamente
 
 ## 5️⃣ Total de Nodos Hoja
 Métodos:
+
 ```
 public int totalNodosHoja()
 private void totalNodosHoja(Nodo reco)
