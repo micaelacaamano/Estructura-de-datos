@@ -15,8 +15,6 @@ Se debieron implementar los siguientes métodos:
 ## 1️⃣ Inserción en el Árbol
 
 ### Método:
-
-```java
 public void insertar(int info)
 
 Implementar el método encargado de insertar valores dentro del árbol binario, respetando el orden:
