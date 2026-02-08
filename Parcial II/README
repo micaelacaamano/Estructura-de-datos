@@ -15,8 +15,9 @@ Se debieron implementar los siguientes métodos:
 ## 1️⃣ Inserción en el Árbol
 
 ### Método:
+```
 public void insertar(int info)
-
+```
 Implementar el método encargado de insertar valores dentro del árbol binario, respetando el orden:
 
 Si el valor es menor → se inserta en el subárbol izquierdo
@@ -26,7 +27,9 @@ Si el valor es mayor → se inserta en el subárbol derecho
 
 ## 2️⃣ Menor valor del Subárbol Derecho
 Método:
+```
 public void menorValorDerecha()
+```
 
 Implementar la búsqueda del menor valor existente en el subárbol derecho.
 
@@ -36,7 +39,9 @@ Este método recorre hacia la izquierda dentro del subárbol derecho hasta encon
 
 ## 3️⃣ Mayor valor del Subárbol Izquierdo
 Método:
+```
 public void mayorValorIzquierda()
+```
 
 Implementar la búsqueda del mayor valor existente en el subárbol izquierdo.
 
@@ -46,8 +51,9 @@ Este método recorre hacia la derecha dentro del subárbol izquierdo hasta encon
 
 ## 4️⃣ Búsqueda de un Valor e Informe de Nivel
 Método:
+```
 public void existeValorEnNivel(int info)
-
+```
 Implementar la búsqueda del valor recibido por parámetro e informar:
 
 Si el valor existe dentro del árbol
@@ -64,8 +70,10 @@ Y así sucesivamente
 
 ## 5️⃣ Total de Nodos Hoja
 Métodos:
+```
 public int totalNodosHoja()
 private void totalNodosHoja(Nodo reco)
+```
 
 Implementar los métodos recursivos necesarios para calcular el total de nodos hoja en el árbol.
 
