@@ -2,8 +2,6 @@
 
 Este repositorio corresponde al **Segundo Parcial** de la materia **Estructura de Datos**, donde se trabajó con la implementación de un **árbol binario de búsqueda** en Java.
 
-El examen consistió en descargar el archivo provisto `Examen.java` y completar únicamente los métodos marcados, **sin modificar el resto del código**.
-
 ---
 
 ## 📌 Consigna del Parcial
