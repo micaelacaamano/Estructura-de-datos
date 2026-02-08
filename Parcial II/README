@@ -1,4 +1,4 @@
-# Segundo Parcial – Estructura de Datos (Árbol Binario)
+### Segundo Parcial – Estructura de Datos (Árbol Binario)
 
 Este repositorio corresponde al **Segundo Parcial** de la materia **Estructura de Datos**, donde se trabajó con la implementación de un **árbol binario de búsqueda** en Java.
 
@@ -24,14 +24,17 @@ Implementar el método encargado de insertar valores dentro del árbol binario, 
 Si el valor es menor → se inserta en el subárbol izquierdo
 Si el valor es mayor → se inserta en el subárbol derecho
 
+---
+
 ## 2️⃣ Menor valor del Subárbol Derecho
 Método:
 public void menorValorDerecha()
 
-
 Implementar la búsqueda del menor valor existente en el subárbol derecho.
 
 Este método recorre hacia la izquierda dentro del subárbol derecho hasta encontrar el valor mínimo.
+
+---
 
 ## 3️⃣ Mayor valor del Subárbol Izquierdo
 Método:
@@ -40,6 +43,8 @@ public void mayorValorIzquierda()
 Implementar la búsqueda del mayor valor existente en el subárbol izquierdo.
 
 Este método recorre hacia la derecha dentro del subárbol izquierdo hasta encontrar el valor máximo.
+
+---
 
 ## 4️⃣ Búsqueda de un Valor e Informe de Nivel
 Método:
@@ -57,6 +62,8 @@ Nivel 1 → hijos directos
 Nivel 2 → nietos
 Y así sucesivamente
 
+---
+
 ## 5️⃣ Total de Nodos Hoja
 Métodos:
 public int totalNodosHoja()
@@ -68,6 +75,8 @@ Un nodo hoja es aquel que:
 No tiene hijo izquierdo
 No tiene hijo derecho
 
+---
+
 ## Conceptos Aplicados
 
 En este parcial se aplicaron los siguientes temas:
@@ -78,6 +87,8 @@ Búsqueda dentro de subárboles
 Recorridos dirigidos
 Cálculo de nodos hoja mediante recursividad
 Determinación de nivel de un nodo
+
+---
 
 ## 📊 Criterios de Evaluación
 
