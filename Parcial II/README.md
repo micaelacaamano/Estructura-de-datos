@@ -67,8 +67,11 @@ En qué nivel se encuentra
 📍 Referencia de niveles:
 
 Nivel 0 → raíz
+
 Nivel 1 → hijos directos
+
 Nivel 2 → nietos
+
 Y así sucesivamente
 
 ---
@@ -94,10 +97,15 @@ No tiene hijo derecho
 En este parcial se aplicaron los siguientes temas:
 
 Árbol Binario de Búsqueda (ABB)
+
 Inserción ordenada
+
 Búsqueda dentro de subárboles
+
 Recorridos dirigidos
+
 Cálculo de nodos hoja mediante recursividad
+
 Determinación de nivel de un nodo
 
 ---
