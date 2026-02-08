@@ -1,0 +1,84 @@
+# Segundo Parcial – Estructura de Datos (Árbol Binario)
+
+Este repositorio corresponde al **Segundo Parcial** de la materia **Estructura de Datos**, donde se trabajó con la implementación de un **árbol binario de búsqueda** en Java.
+
+El examen consistió en descargar el archivo provisto `Examen.java` y completar únicamente los métodos marcados, **sin modificar el resto del código**.
+
+---
+
+## 📌 Consigna del Parcial
+
+Se debieron implementar los siguientes métodos:
+
+---
+
+## 1️⃣ Inserción en el Árbol
+
+### Método:
+
+```java
+public void insertar(int info)
+
+Implementar el método encargado de insertar valores dentro del árbol binario, respetando el orden:
+
+Si el valor es menor → se inserta en el subárbol izquierdo
+Si el valor es mayor → se inserta en el subárbol derecho
+
+## 2️⃣ Menor valor del Subárbol Derecho
+Método:
+public void menorValorDerecha()
+
+
+Implementar la búsqueda del menor valor existente en el subárbol derecho.
+
+Este método recorre hacia la izquierda dentro del subárbol derecho hasta encontrar el valor mínimo.
+
+## 3️⃣ Mayor valor del Subárbol Izquierdo
+Método:
+public void mayorValorIzquierda()
+
+Implementar la búsqueda del mayor valor existente en el subárbol izquierdo.
+
+Este método recorre hacia la derecha dentro del subárbol izquierdo hasta encontrar el valor máximo.
+
+## 4️⃣ Búsqueda de un Valor e Informe de Nivel
+Método:
+public void existeValorEnNivel(int info)
+
+Implementar la búsqueda del valor recibido por parámetro e informar:
+
+Si el valor existe dentro del árbol
+En qué nivel se encuentra
+
+📍 Referencia de niveles:
+
+Nivel 0 → raíz
+Nivel 1 → hijos directos
+Nivel 2 → nietos
+Y así sucesivamente
+
+## 5️⃣ Total de Nodos Hoja
+Métodos:
+public int totalNodosHoja()
+private void totalNodosHoja(Nodo reco)
+
+Implementar los métodos recursivos necesarios para calcular el total de nodos hoja en el árbol.
+
+Un nodo hoja es aquel que:
+No tiene hijo izquierdo
+No tiene hijo derecho
+
+## Conceptos Aplicados
+
+En este parcial se aplicaron los siguientes temas:
+
+Árbol Binario de Búsqueda (ABB)
+Inserción ordenada
+Búsqueda dentro de subárboles
+Recorridos dirigidos
+Cálculo de nodos hoja mediante recursividad
+Determinación de nivel de un nodo
+
+## 📊 Criterios de Evaluación
+
+Para aprobar el examen era necesario cumplir al menos con el 60% de las funcionalidades solicitadas.
